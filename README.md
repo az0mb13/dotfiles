@@ -1,2 +1,2 @@
 # dotfiles
-My dotfiles for setting up tmux and vim.
+My dotfiles for setting up tmux, vim, zsh, p10k, and alacritty.
